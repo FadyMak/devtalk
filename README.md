@@ -1,7 +1,7 @@
 # DevTalk
 Markdown-based discussion platform, powered by Auth0 Lock and Webtask
 
-Check out the demo
+Check out the [demo](http://fadymak.com/devtalk/)
 
 ## Rationale
 
